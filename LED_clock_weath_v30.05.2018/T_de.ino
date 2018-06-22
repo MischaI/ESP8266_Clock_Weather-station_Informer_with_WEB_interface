@@ -1,6 +1,6 @@
 void deText(){
   tMes = "Schatzi!!! Das ist für dich!!!";
-  tNow = "jetzt";
+  tNow = "Momentan";
   tPress = "mmHg";
   tSpeed = "m/s";
   tMin = "min.";
