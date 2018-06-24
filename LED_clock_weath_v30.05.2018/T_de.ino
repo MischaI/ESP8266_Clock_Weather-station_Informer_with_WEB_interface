@@ -72,6 +72,7 @@ void deText(){
   tBrokenClouds = "bewölkt";
   tOvercastClouds = "bedeckt";
   tLightRain = "regenschauer";  
+  tShowerRain="regenschauer";
   tModerateRain = "leichter  Regen";
   tLightIntensityShowerRain = "leichter Regen";
   tHeavyIntensityRain = "starkregen"; 
