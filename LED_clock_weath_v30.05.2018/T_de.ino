@@ -1,9 +1,9 @@
 void deText(){
   tMes = "Schatzi!!! Das ist für dich!!!";
   tNow = "jetzt";
-  tPress = "mmHg";
-  tSpeed = "m/s";
-  tMin = "min.";
+  tPress = " mmHg";
+  tSpeed = " m/s";
+  tMin = " min.";
   tTom = "Morgen";
   tKurs = "Kurs Privat24";
   tSale = "kaufen/verkaufen.";
@@ -71,8 +71,9 @@ void deText(){
   tScatteredClouds = "bewölkt";
   tBrokenClouds = "bewölkt";
   tOvercastClouds = "bedeckt";
-  tLightRain = "regenschauer";  
-  tModerateRain = "leichter  Regen";
+  tLightRain = "leichter  Regen";  
+  tModerateRain = "regenschauer";
+  tShowerRain= "regenschauer";
   tLightIntensityShowerRain = "leichter Regen";
   tHeavyIntensityRain = "starkregen"; 
   tThunderstorm = "gewitter";
